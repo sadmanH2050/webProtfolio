@@ -1,4 +1,7 @@
+/* google fonts ---------- */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* universal design ---------- */
 * {
      margin: 0;
      padding: 0;
@@ -9,6 +12,7 @@ body {
      font-family: 'Poppins', sans-serif;
 }
 
+/* banner part ---------- */
 .banner {
      display: flex;
      background: url('images/top-banner.png');
@@ -43,7 +47,7 @@ h3 {
 }
 
 p {
-     width: 80%;
+     width: 90%;
      margin-top: 18px;
 }
 
@@ -74,3 +78,4 @@ button:hover {
 img {
      width: 80%;
 }
+
